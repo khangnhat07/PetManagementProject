@@ -1,4 +1,4 @@
-﻿namespace PROJECTPETSTORE
+﻿namespace PETSHOPMANAGEMENT
 {
     partial class UserModule
     {

@@ -16,7 +16,7 @@ namespace PETSHOPMANAGEMENT
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SplashFrom());
+            Application.Run(new MainForm());
         }
     }
 }

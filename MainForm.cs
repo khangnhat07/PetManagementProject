@@ -106,5 +106,10 @@ namespace PETSHOPMANAGEMENT
         {
 
         }
+
+        private void pnlchile_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

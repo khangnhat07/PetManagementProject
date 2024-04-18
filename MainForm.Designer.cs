@@ -394,6 +394,7 @@
             this.pnlchile.Name = "pnlchile";
             this.pnlchile.Size = new System.Drawing.Size(1000, 300);
             this.pnlchile.TabIndex = 4;
+            this.pnlchile.Paint += new System.Windows.Forms.PaintEventHandler(this.pnlchile_Paint);
             // 
             // panel6
             // 
